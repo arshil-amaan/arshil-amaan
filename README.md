@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arshil+Amaan+Ansari+👨‍💻;" />
+</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on refining my React.js skills and building a dynamic event discovery app using React.js and Express.js.<br>👯 I’m looking to collaborate on open-source projects that push the boundaries of web development and incorporate innovative design concepts.<br>🤝 I’m looking for help with optimizing frontend performance and exploring advanced JavaScript techniques to enhance user experiences.<br>🌱 I’m currently learning Redux.js to efficiently manage state in complex web applications and diving deeper into backend technologies like Node.js.<br>💬 Ask me about creative web design ideas, optimizing code efficiency, or my favorite coding challenges on platforms like LeetCode and CodeChef.<br>⚡ Fun fact: When I'm not coding, you'll often find me experimenting with new music genres or exploring the local food scene for hidden culinary gems!
 
